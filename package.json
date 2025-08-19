@@ -1,5 +1,5 @@
 {
-  "name": "automated-markdown-editor",
+  "name": "automated-markdown",
   "version": "1.0.0",
   "description": "A powerful web-based markdown editor with collaboration and publishing features",
   "main": "src/index.js",
@@ -17,7 +17,7 @@
     "publishing",
     "knowledge-base"
   ],
-  "author": "YOUR_NAME",
+  "author": "HASSAN KIBITI",
   "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
@@ -39,6 +39,12 @@
       "not dead",
       "not op_mini all"
     ],
+    "homepage": "https://kibiti.github.io/automated-markdown",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
