@@ -4,12 +4,12 @@
 
 Create a `.env` file in the root directory with the following variables:
 
-- `REACT_APP_GITHUB_USERNAME`: Your GitHub username
+- `kibti`: Your GitHub username
 - `REACT_APP_GITHUB_TOKEN`: GitHub personal access token with repo scope
 - `REACT_APP_DROPBOX_APP_KEY`: Dropbox app key (if using Dropbox integration)
-- `REACT_APP_GOOGLE_DRIVE_CLIENT_ID`: Google Drive client ID (if using Google Drive integration)
+- `Google drive`: Google Drive client ID (if using Google Drive integration)
 - `REACT_APP_SIGNALING_SERVER`: WebSocket URL for collaboration server
-- `REACT_APP_SITE_TITLE`: Custom title for your editor
+- `Automated Markdown Editor`: Custom title for your editor
 
 ## GitHub Token Setup
 
