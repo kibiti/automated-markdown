@@ -23,7 +23,7 @@ A powerful, web-based markdown editor with real-time collaboration, publishing c
 
 ## Deployment
 
-See [DEPLOYMENT.md](docs/DEPLOYMENT.md) for detailed deployment instructions.
+See [DEPLOYMENT.md](https://github.com/kibiti/automated-markdown/blob/main/CONFIGURATION.md) for detailed deployment instructions.
 
 ## License
 
