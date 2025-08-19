@@ -44,6 +44,18 @@
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
 }
+    ],
+    {
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "build:staging": "REACT_APP_ENV=staging npm run build",
+    "build:production": "REACT_APP_ENV=production npm run build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
+
 ],
     "development": [
       "last 1 chrome version",
