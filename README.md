@@ -16,7 +16,7 @@ A powerful, web-based markdown editor with real-time collaboration, publishing c
 
 ## Quick Start
 
-1. Clone this repository: `git clone https://github.com/YOUR_GITHUB_USERNAME/automated-markdown-editor.git`
+1. Clone this repository: `git clone https://github.com/kibiti/automated-markdown.git`
 2. Install dependencies: `npm install`
 3. Start development server: `npm start`
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
